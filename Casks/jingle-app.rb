@@ -1,6 +1,6 @@
 cask "jingle-app" do
-  version "0.1.0"
-  sha256 "dab8c824974f58966872acc750a0fa604e806ff0aa77e00a874ca21744757a43"
+  version "0.1.1"
+  sha256 "4895c234260e3ccc9949103c2040963d10d074a6b8460096ae50e48081326579"
 
   url "https://github.com/OPDhaker/jingle/releases/download/v#{version}/Jingle_macos_universal.dmg"
   name "Jingle"
